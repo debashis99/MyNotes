@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7C595E89-C56F-44B8-80FB-F73CD37592E2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DDC9B5F-4802-4264-8116-BB461F247065"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyNotes/Views/ListNotes/UserManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "authenticate(user:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DDC9B5F-4802-4264-8116-BB461F247065 - 55a1be6e5ee6e79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyNotes.UserManager.authenticate(token: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "MyNotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debashisnag/Downloads/ios-tutorials-my-notes-starter/MyNotes/Views/ListNotes/UserManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  uuid = "4DDC9B5F-4802-4264-8116-BB461F247065 - 5ad19833b4b9e05f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyNotes.UserManager.authenticate(user: Swift.Optional&lt;MyNotes.User&gt;) -&gt; Swift.Bool"
+                  moduleName = "MyNotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debashisnag/Downloads/ios-tutorials-my-notes-starter/MyNotes/Views/ListNotes/UserManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
